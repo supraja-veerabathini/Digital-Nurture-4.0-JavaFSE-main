@@ -1,0 +1,4 @@
+21:30:07.485 [main] DEBUG org.example.MultipleAppenderExample - Debug message - for developers
+21:30:07.489 [main] INFO  org.example.MultipleAppenderExample - Info message - general information
+21:30:07.490 [main] WARN  org.example.MultipleAppenderExample - Warning message - something is off
+21:30:07.490 [main] ERROR org.example.MultipleAppenderExample - Error message - something went wrong
